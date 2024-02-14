@@ -1,0 +1,2 @@
+Docker file will need to install nessecarry node modules during installation. 
+MAKE SURE TO INCLUDE .bsky.social in user .env so that it functions. 
