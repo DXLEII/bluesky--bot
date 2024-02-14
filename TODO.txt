@@ -1,2 +1,13 @@
-Docker file will need to install nessecarry node modules during installation. 
-MAKE SURE TO INCLUDE .bsky.social in user .env so that it functions. 
+        ## Development ##
+
+Bot Development:
+    OpenAI:
+        ChatGpt API Integration
+        User Input to model via posting
+        Response to user input via private messages Preferable.
+
+Dockerize:
+    Docker file will need to install nessecarry node modules during installation. 
+
+Notes:
+    MAKE SURE TO INCLUDE .bsky.social in user .env so that it functions. 
