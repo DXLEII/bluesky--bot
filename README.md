@@ -16,7 +16,7 @@
     </li>
     <li>Create a <code>.env</code> file based on <code>.env.template</code> and fill in your Bluesky account information. Ensure the <strong>username</strong> follows the <strong>user.bsky.social</strong> format, or the bot won't work.</li>
     <li>Run the bot using ts-node:
-        <pre><code>npm ts-node bot.ts</code></pre>
+        <pre><code>ts-node bot.ts</code></pre>
     </li>
 </ol>
 
