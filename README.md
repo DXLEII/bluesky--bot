@@ -1,6 +1,6 @@
 <h1>Bluesky Bot</h1>
 
-<p>Bluesky Bot is a simple bot designed to post "Hello, World!" to your Bluesky account every minute. It serves as a starting point for more complex interactions with Bluesky.</p>
+<p>Bluesky Bot is a simple bot designed to post "Hello, World!" to your Bluesky account every minute. It serves as a starting point for more complex interactions with Bluesky. The bot also gives you a notifacation using notify when you make a new post.</p>
 
 <h2>Getting Started</h2>
 
@@ -31,6 +31,7 @@
 <ul>
     <li><code>BLUESKY_USERNAME</code>: Your Bluesky username in the <strong>user.bsky.social</strong> format.</li>
     <li><code>BLUESKY_PASSWORD</code>: Your Bluesky password.</li>
+    <li><code>NTFY_ENDPOINT</code>: Your Notify endpoint password.</li>
 </ul>
 
 <h2>Security</h2>

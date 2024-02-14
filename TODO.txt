@@ -8,6 +8,12 @@ Bot Development:
 
 Dockerize:
     Docker file will need to install nessecarry node modules during installation. 
+    Docker compose may include notify in the stack.
 
 Notes:
     MAKE SURE TO INCLUDE .bsky.social in user .env so that it functions. 
+
+    HOW TO MAKE RUN IN NEW INSTALL:
+    NPM install
+    NPM install -g ts-node
+    ts-node bot.ts
